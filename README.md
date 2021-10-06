@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Alencion&fontSize=70&animation=twinkling)
 
 ## 이정준
-서버 개발에 관심을 갖고 있으며, 꾸준히 성장하는 개발자를 목표로 하고 있습니다. 😆
+서버 개발에 관심을 갖고 있으며, 꾸준히 성장하는 개발자를 목표로 하고 있습니다. 😆 <br>
 클린 코드를 지향하며 다른 사람이 읽기 쉬운 코드를 작성하는데 많은 노력을 합니다!
 
 ## Major Skills
